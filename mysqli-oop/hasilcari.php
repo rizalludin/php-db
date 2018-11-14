@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div class="judul">		
-		<h1>Membuat CRUD Dengan PHP Dan MySQL</h1>
+		<h1>Membuat CRUD Dengan php Dan MySQL</h1>
 		<h2>Menampilkan data dari database</h2>
 		<h3>Sofyan Maulana</h3>
 	</div>
